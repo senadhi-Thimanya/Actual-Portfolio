@@ -24,18 +24,18 @@ const Projects = () => {
       demo: null,
       date: "June 2025",
       featured: false
-    }
-    /*{
-      title: "Sentiment Analysis API",
-      description: "Developed a REST API that analyzes sentiment from text data using natural language processing. Deployed on AWS with automated CI/CD pipeline.",
-      image: null,
-      technologies: ["Python", "Flask", "NLTK", "AWS", "Docker"],
-      github: "https://github.com/alexchen/sentiment-api",
-      demo: null,
-      date: "August 2024",
-      featured: false
     },
     {
+      title: "Two Stage Fine Tuning for Sinhala Generative QA in <8B LLMs",
+      description: "Implemented a LoRA-PEFT fine tuning approach on the Llama-3.2-3B-IT model for Sinhala Question Answering. Employed Wikipedia dumps and QA datasets for model training, achieving significant a Perplexity Score of 2.83372 and a BLEU score of 1.2236.",
+      image: null,
+      technologies: ["Python", "LoRA-PEFT", "Web Scraping", "HuggingFace"],
+      github: "https://github.com/scythe410/Below-8B-Sinhala-LLM-Training---RedQueen-Protocol",
+      demo: null,
+      date: "July 2025",
+      featured: false
+    },
+    /*{
       title: "Customer Segmentation Analysis",
       description: "Performed comprehensive customer segmentation using K-means clustering and RFM analysis. Created interactive dashboards to visualize customer behavior patterns.",
       image: dataProject,

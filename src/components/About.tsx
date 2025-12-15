@@ -16,12 +16,12 @@ const About = () => {
     {
       icon: Code,
       title: "Software Development",
-      description: "Python, R, JavaScript, and full-stack development"
+      description: "Python, Java, JavaScript, and full-stack development"
     },
     {
       icon: TrendingUp,
       title: "Research",
-      description: "Academic research in AI ethics and algorithmic fairness"
+      description: "Academic research in AI ethics and NLP"
     }
   ];
 
@@ -86,7 +86,7 @@ const About = () => {
                 <div className="space-y-3">
                   <h4 className="font-medium text-foreground">Tools</h4>
                   <div className="flex flex-wrap gap-2">
-                    {["IntelliJ", "PyCharm", "VS Code", "MySQL", "Figma"].map((skill) => (
+                    {["IntelliJ", "PyCharm", "VS Code", "MySQL", "Figma", "HuggingFace", "Kaggle/Colab"].map((skill) => (
                       <span key={skill} className="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium">
                         {skill}
                       </span>

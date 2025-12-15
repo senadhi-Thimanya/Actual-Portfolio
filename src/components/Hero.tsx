@@ -29,8 +29,10 @@ const Hero = () => {
                 AI & Data Science Student
               </p>
               <p className="text-lg text-white/70 max-w-lg mx-auto lg:mx-0">
-                Passionate about machine learning, data analysis, and building intelligent systems 
-                that solve real-world problems.
+                Interested in AI based applications, Natural Language 
+                Processing related research and various machinelearning 
+                techniques. Looking to apply my skills and gain experience 
+                in hands-on application development.
               </p>
             </div>
             

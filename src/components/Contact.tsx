@@ -108,7 +108,7 @@ const Contact = () => {
                     className="flex items-center gap-2"
                     asChild
                   >
-                    <a href="/resume.pdf" download>
+                    <a href="/public/Senadhi Chandrasekara.pdf" download>
                       Download Resume
                     </a>
                   </Button>
@@ -170,9 +170,8 @@ const Contact = () => {
                 <div className="space-y-3">
                   <h4 className="text-lg font-semibold text-foreground">Fun Fact</h4>
                   <p className="text-muted-foreground">
-                    When I'm not coding or analyzing data, you can find me hiking, 
-                    reading about the latest AI research, or experimenting with new 
-                    machine learning frameworks!
+                    When I'm not coding or diving into data, you can find me playing games,
+                    or scrolling through reels!
                   </p>
                 </div>
               </Card>
